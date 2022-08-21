@@ -1,0 +1,9 @@
+name: p
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: p
+config:
+  azure-native:location: westus2
+
